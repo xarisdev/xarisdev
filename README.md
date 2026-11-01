@@ -1,18 +1,10 @@
 ## Hi there 👋 I'm xaris!
 
-*I’m currently learning FastAPI, Docker, PostgreSQL*
+**Backend developer (Python)**. *Currently looking for my first professional opportunity.*
 
-<!--
-**xarisdev/xarisdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been learning Python for 4 years, gradually moving into backend development and networking. I primary build SaaS applications using Telegram bots and REST API architecture.
 
-Here are some ideas to get you started:
+**TECHNICAL STACK**
 
-- 🔭 I’m currently working on ...
-- 🌱 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- FastAPI •  PostgreSQL • SQLAlchemy • API Integration
+- Git • Docker • Python • asyncio
