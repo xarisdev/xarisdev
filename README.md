@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there 👋 I'm **xaris**
+# Hi there 👋 I'm **xaris**
 
 **Backend Developer (Python)**
 
